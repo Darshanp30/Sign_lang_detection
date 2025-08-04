@@ -40,14 +40,3 @@ The goal of this project is to bridge communication between hearing-impaired ind
 - The last 30 frames are used to build a prediction sequence.
 - The trained model predicts the most likely gesture and displays it in real time.
 
-## Technologies Used
-
-- **Python**
-- **OpenCV** – for real-time video processing
-- **MediaPipe** – for hand landmark detection
-- **TensorFlow / Keras** – for building and training the LSTM model
-- **NumPy** – for data manipulation
-- **Matplotlib** – for visualization during development
-
-## Repository Structure
-
